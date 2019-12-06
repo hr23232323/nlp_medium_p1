@@ -1,2 +1,2 @@
-# nlp_medium_p1
-Part 1 of the NLP data science project
+# Building and Deploying a Data Science Project in 2 weeks (Part 1)
+Learning the basics of Natural Language Processing, Flask and ML Model Deployment by building something fun!
